@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+}
+.countainer {
+  background-color: aquamarine;
+  margin-top: 20px;
+  border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 50vh;
+}
+.count {
+  display: flex;
+  width: 300px;
+  align-items: center;
+  justify-content: space-between;
+}
+.btn {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+  border-radius: 5%;
+  border: none;
+  border: 1px solid chocolate;
+}
+p {
+  font-size: 20px;
+}
+.in {
+  width: 220px;
+  height: 20px;
+  margin-top: 20px;
+}
